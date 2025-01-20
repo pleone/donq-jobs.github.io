@@ -25,7 +25,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: DonQ Jobs Board
-email: job@donq.io
+email:
 author: DonQ
 
 # Copyright setting
